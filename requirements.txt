@@ -1,0 +1,6 @@
+Flask
+whisperx
+torch
+transformers
+numpy
+werkzeug

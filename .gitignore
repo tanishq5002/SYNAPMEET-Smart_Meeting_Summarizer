@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Audio files / large test files
+samples/
+*.wav
+*.mp3
+
+# Upload folder (runtime)
+uploads/
+
+# IDE / OS files
+.DS_Store
+.vscode/
+.idea/
